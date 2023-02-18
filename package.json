@@ -4,7 +4,7 @@
   "description": "A CLI util to determine how many days are left until a certain date",
   "main": "index.ts",
   "scripts": {
-    "start": "ts-node index.ts countdown",
+    "start": "ts-node src/index.ts countdown",
     "ts-node": "ts-node"
   },
   "repository": {
