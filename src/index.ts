@@ -23,7 +23,7 @@ program
     const { date, unit } = options
 
     const currentDate = new Date()
-    const targetDate = date ? new Date(options.date) : new Date('2023-08-15')
+    const targetDate = date ? new Date(options.date) : new Date('2025-12-09')
     const outputUnit = unit ?? 'days'
 
     const daysLeft = DateTime.fromJSDate(targetDate).diff(
