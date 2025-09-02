@@ -9,8 +9,7 @@
     "strictNullChecks": true,
     "noImplicitThis": true,
     "skipLibCheck": true,
-    "typeRoots": [
-      "./node_modules/@types"
-    ],
+    "outDir": "dist",
+    "typeRoots": ["./node_modules/@types"]
   }
 }
