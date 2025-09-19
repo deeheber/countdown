@@ -10,7 +10,7 @@ A CLI util to determine how many <units of time> are left until a certain date f
 
 ## Options
 
-By default the CLI will show the number of days until 08-15-2023. You can change this by passing in a date (`-d` or `--date`) as an argument. The date should be in the format `YYYY-MM-DD` or `MM-DD-YYYY`. Dates in the past will return a negative number.
+By default the CLI will show the number of days until 2025-12-09. You can change this by passing in a date (`-d` or `--date`) as an argument. The date should be in the format `YYYY-MM-DD` or `MM-DD-YYYY`. Dates in the past will return a negative number.
 
 If you want to see the amount of time in a different unit than days, you can pass in a second argument (`-u` or `--unit`). The second argument should be one of the following:
 
