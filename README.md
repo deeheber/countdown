@@ -4,7 +4,7 @@ A CLI util to determine how many <units of time> are left until a certain date f
 
 ## Usage
 
-1. Make sure you have node 18 or higher installed (see `.nvmrc`)
+1. Make sure you have node 22 or higher installed (see `.nvmrc`)
 2. Clone this repo and run `npm install`
 3. Run `npm start` to start the CLI
 
