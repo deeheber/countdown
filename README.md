@@ -25,16 +25,16 @@ If you want to see the amount of time in a different unit than days, you can pas
 
 ## Examples
 
-1. Show the number of days until 02-23-2023
+1. Show the number of days until 12-25-2025
 
 ```bash
-npx ts-node src/index.ts countdown -d 02-23-2023
+npm start -- -d 12-25-2025
 ```
 
-2. Show the number of hours until 02-23-2023
+2. Show the number of hours until 12-25-2025
 
 ```bash
-npx ts-node src/index.ts countdown -d 02-23-2023 -u hours
+npm start -- -d 12-25-2025 -u hours
 ```
 
 ## Contributing
